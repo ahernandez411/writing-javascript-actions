@@ -11,7 +11,3 @@ jobs:
 
     - name: hello-action
       uses: ./.github/actions/hello-world
-      with:
-        first-greeting: "Archie"
-        second-greeting: "Batman"
-        third-greeting: TV
