@@ -15,4 +15,4 @@ jobs:
       uses: ./.github/actions/hello-world
 
     - name: jokester
-      uses: ./github/actions/joke-action
+      uses: ./.github/actions/joke-action
